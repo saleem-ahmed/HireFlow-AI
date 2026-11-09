@@ -1,0 +1,17 @@
+
+Sarah Miller
+Email: sarah.miller@example.com
+Phone: +1 415 555 8921
+Location: San Francisco, CA
+
+Professional Summary:
+Full-stack software architect with 7 years of production experience building high-throughput Python backends using FastAPI and distributed web applications in React and Next.js. Deep experience with PostgreSQL query tuning and Redis caches.
+
+Skills:
+Python, FastAPI, React, Next.js, TypeScript, PostgreSQL, Celery, Redis, Docker, Git
+
+Experience:
+Lead Software Engineer at ScalePoint Systems (2020 - Present)
+- Designed and scaled FastAPI microservices handling 20,000 req/sec.
+- Architected Next.js client portals with TypeScript.
+- Reduced PostgreSQL query latency by 45%.

@@ -1,0 +1,11 @@
+
+Sarah Miller
+Email: sarah.miller2@example.com
+Phone: +1 415 555 8921
+Location: San Francisco, CA
+
+Professional Summary:
+Full-stack software architect with 7 years of production experience building high-throughput Python backends using FastAPI and distributed web applications in React and Next.js. Deep experience with PostgreSQL query tuning and Redis caches.
+
+Skills:
+Python, FastAPI, React, Next.js, TypeScript, PostgreSQL, Celery, Redis, Docker, Git

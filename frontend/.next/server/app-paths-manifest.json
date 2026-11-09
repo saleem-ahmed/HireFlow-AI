@@ -1,0 +1,8 @@
+{
+  "/portal/[orgSlug]/page": "app/portal/[orgSlug]/page.js",
+  "/portal/[orgSlug]/jobs/[jobId]/page": "app/portal/[orgSlug]/jobs/[jobId]/page.js",
+  "/page": "app/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js"
+}
